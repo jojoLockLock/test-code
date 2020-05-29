@@ -20,7 +20,7 @@
 	},
 	"license": "ISC",
 	"dependencies": {
-		"debug": "^2.6.9",
+		"debug": "^4.1.1",
 		"express": "^4.17.1",
 		"nyc": "^15.0.1"
 	}
